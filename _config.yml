@@ -1,9 +1,9 @@
 # Site settings
-title: Lens
-description: Just another fine responsive site template by <a href="http://html5up.net">HTML5 UP</a>
+title: Kevin & Anne
+description: Um mural de um ano de namoro <3
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://ktakanomilk.github.io" # the base hostname & protocol for your site
-author:
+author: Kevin Takano
 
 # Collection settings
 collections:
